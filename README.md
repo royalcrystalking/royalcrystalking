@@ -5,12 +5,19 @@ As an active and cheerful front-end developer, I love meeting customer needs and
 
 ### Woriking Style
 ⚡Full-time developer (40+ hours per week)
-⚡Working in your time zone & Good communication.
+
+⚡Working in your time zone & Good communication
+
 ⚡Update the result daily, every week
+
 ⚡Keep on-Time, on-Budget
-⚡100% ongoing satisfaction with your project.
+
+⚡100% ongoing satisfaction with your project
+
 ⚡Provide the result with high quality
+
 ⚡Lifetime Free Bug-Fix support after completion
+
 ⚡Agile Scrum workflow!
 
 <!--
