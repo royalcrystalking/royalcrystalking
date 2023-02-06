@@ -1,6 +1,7 @@
 ### Hi 👋 I'm a passionate Front End Developer and Playboy.
 
 ### About me
+As an active and cheerful front-end developer, I love meeting customer needs and having fun with them. With more than 6 years of experience, I have participated in and successfully led many projects.
 
 <!--
 **royalcrystalking/royalcrystalking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
